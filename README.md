@@ -1,2 +1,2 @@
-# CodeAlpha_Task3
+Revision of OOPs Concepts
 This task involved creating a basic banking system using an Account class to manage account number, name, and balance. I added features like deposit, withdrawal, and account display using a Bank class with a vector to store multiple accounts. The user is prompted via a menu, and inputs are handled in a loop for repeated actions. Managing multiple accounts and performing operations based on account numbers was the core logic. Simplicity was maintained by avoiding file storage and focusing on runtime features only. It worked smoothly and is easy to test and expand.
